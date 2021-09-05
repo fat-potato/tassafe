@@ -9,12 +9,11 @@
 p,
 h1,
 h2,
-h3
-h4,
+h3 h4,
 h5,
 h6,
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: $black;
   margin: 0;
 }
@@ -24,7 +23,7 @@ body {
 }
 
 a {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-decoration: none !important;
   color: $black;
 
@@ -91,7 +90,7 @@ p,
 }
 
 @mixin button {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: white !important;
   color: $black !important;
   border: 1px solid $black !important;
@@ -109,9 +108,8 @@ input[type="submit"] {
 }
 
 body {
-  background-color: $white;
+  background-color: #f9f6ed;
 }
-
 
 #custom-page {
   .container {

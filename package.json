@@ -14,7 +14,8 @@
     "jump.js": "^1.0.2",
     "lodash": "^4.17.20",
     "simplelightbox": "^2.7.2",
-    "tiny-slider": "^2.9.3"
+    "tiny-slider": "^2.9.3",
+    "tippy.js": "^6.3.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.11.6",

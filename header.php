@@ -47,7 +47,7 @@ if (!defined('ABSPATH')) {
 			<nav class="navbar navbar-expand-lg navbar-light row">
 				<div class="site-branding">
 					<a href="<?php echo home_url() ?>">
-						<h1>Local<span>Expert</span></h1>
+						<h1>Tas<span>Safe</span></h1>
 					</a>
 				</div>
 				<div class='navbar-mobile row col-2 col-sm-2 d-lg-none'>
